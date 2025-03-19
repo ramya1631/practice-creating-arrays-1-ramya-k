@@ -1,1 +1,1 @@
-# -practice-creating-arrays-1-ramya-k
+# practice-creating-arrays-1-ramya-k
